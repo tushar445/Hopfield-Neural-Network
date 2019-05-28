@@ -22,7 +22,7 @@ keras (to load MNIST dataset)
 
 RUN
 
-1.For Synchronous: train.py
+1. For Synchronous: train.py
 
-2.For Asynchronous: train_mnist.py.
+2. For Asynchronous: train_mnist.py.
 
