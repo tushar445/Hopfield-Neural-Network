@@ -6,11 +6,17 @@ Hopfield network (Amari-Hopfield network) implemented with Python. Two update ru
 #REQUIREMENT
 
 Python >= 3.5
+
 numpy
+
 matplotlib
+
 skimage
+
 tqdm
+
 keras (to load MNIST dataset)
+
 
 #USAGE
 
