@@ -15,6 +15,3 @@ keras (to load MNIST dataset)
 #USAGE
 RUN: train.py or train_mnist.py.
 
-#DEMO
-train.py
-The following is the result of using Synchronous update.
