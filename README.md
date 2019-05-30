@@ -3,7 +3,7 @@ Perspective from Memory
 
 Hopfield network (Amari-Hopfield network) implemented with Python. Two update rules are implemented: Asynchronous & Synchronous.
 
-#REQUIREMENT
+## REQUIREMENT
 
 Python >= 3.5
 
@@ -18,7 +18,7 @@ tqdm
 keras (to load MNIST dataset)
 
 
-#USAGE
+## USAGE
 
 RUN
 
