@@ -1,7 +1,7 @@
 # Hopfield-Neural-Network
 Perspective from Memory
 
-Hopfield network (Amari-Hopfield network) implemented with Python. Two update rules are implemented: Asynchronous & Synchronous.
+Hopfield network implemented with Python. Two update rules are implemented: Asynchronous & Synchronous.
 
 ## REQUIREMENT
 
@@ -22,7 +22,7 @@ keras (to load MNIST dataset)
 
 RUN
 
-1. For Synchronous: train.py
+1. train.py for synchronous update.
 
-2. For Asynchronous: train_mnist.py.
+2. train_mnist.py for asynchronous update.
 
