@@ -1,4 +1,4 @@
-# Hopfield-Neural-Network
+# Hopfield Neural Network
 Perspective from Memory
 
 Hopfield network implemented with Python. Two update rules are implemented: Asynchronous & Synchronous.
